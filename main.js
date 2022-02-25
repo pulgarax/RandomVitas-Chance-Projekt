@@ -25,11 +25,10 @@ document.querySelector('#app').innerHTML = `
       
       <article>Hey my Name is ${name} and im a ${dedication}. I come from ${WhereIcomeFrom}.
       When I'm alone I speak my own language and say stuff like this:
-      <p>" ${nonsense}"</p>.
+      <p>" ${nonsense}"</p>
       I am also a musician. I love to sing and this is the lyrics of my new song: "The ${animalsong}":
 
       <p>"I was walking along and I stepped on a ${uno}
       <p>I fell down in a colossal way!</p>
       <p> Who was the ${dos} who put this ${tres} in the way!"</p>
-   
-  `;
+   `;
